@@ -1,0 +1,38 @@
+<mat-card class="mb-4 w-3/4 bg-red-300 m-7 ml-9">
+    <div class="flex justify-between">
+        <div>
+            <button mat-button [matMenuTriggerFor]="sortByMenu">
+                {{forniture}}
+                <mat-icon>expand_more</mat-icon>
+            </button>
+            <mat-menu #sortByMenu="matMenu">
+                <button   (click)="search('sofa')" (click)="fornitureUpdated('Sofa')" mat-menu-item >Sofa</button>
+                <button mat-menu-item (click)="fornitureUpdated('Chair')" (click)="search('chair')">Chair</button>
+                <button mat-menu-item (click)="fornitureUpdated('Table')" (click)="search('table')">Table</button>
+                <button mat-menu-item (click)="fornitureUpdated('Cabinet')" (click)="search('cabinet')">cabinet</button>
+                <button mat-menu-item (click)="fornitureUpdated('Storage')" (click)="search('Storage')">Storage</button>
+                <button mat-menu-item (click)="fornitureUpdated('Accessory')" (click)="search('accessory')">Accessory</button>
+            </mat-menu>
+        </div>
+        <div class="flex items-center">
+            <div>
+                <button mat-button [matMenuTriggerFor]="menu">
+                    Show {{itemsShowCount}}
+                    <mat-icon>expand_more</mat-icon>
+                </button>
+                <mat-menu #menu="matMenu">
+                    <button mat-menu-item (click)="onItemsUpdated(6)">6</button>
+                    <button mat-menu-item (click)="onItemsUpdated(8)">8</button>
+                    <button mat-menu-item (click)="onItemsUpdated(10)">10</button>
+                    <button mat-menu-item (click)="onItemsUpdated(12)">12</button>
+
+                </mat-menu>
+            </div>
+            
+
+        </div>
+       
+    </div>
+    
+
+</mat-card>

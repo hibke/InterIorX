@@ -1,0 +1,14 @@
+<mat-toolbar  class="max-w-7xl mx-auto border-x  justify-between">
+    <a routerLink="home">InterIorX</a>
+    <button mat-icon-button [matMenuTriggerFor]="menu">
+        <mat-icon>dehaze</mat-icon>
+    </button>
+    <mat-menu #menu="matMenu">
+        <div class="p-3 divide-y divide-solid bg-stone-200 py-3">
+           <div class="pb-3 flex   justify-between">
+              <a routerLink="home" class="ml-5 font-bold" >Create New Model</a>
+              <a routerLink="models" class="ml-5  font-bold">View precedent Models</a>
+           </div>
+        </div>
+    </mat-menu>
+</mat-toolbar>

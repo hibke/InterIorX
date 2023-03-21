@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooden Storage Box
+* source:	https://sketchfab.com/3d-models/wooden-storage-box-c7ecc05315a247d39c1c49017338fcfa
+* author:	euanford12321 (https://sketchfab.com/euanford12321)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooden Storage Box" (https://sketchfab.com/3d-models/wooden-storage-box-c7ecc05315a247d39c1c49017338fcfa) by euanford12321 (https://sketchfab.com/euanford12321) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

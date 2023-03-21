@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sofa_3230
+* source:	https://sketchfab.com/3d-models/sofa-3230-a13c1053ff894d4fa0a6aeb1bb90e8fc
+* author:	vasycrukov (https://sketchfab.com/vasycrukov)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sofa_3230" (https://sketchfab.com/3d-models/sofa-3230-a13c1053ff894d4fa0a6aeb1bb90e8fc) by vasycrukov (https://sketchfab.com/vasycrukov) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

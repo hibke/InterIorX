@@ -1,0 +1,17 @@
+<mat-card *ngFor="let item of items" class="text-center">
+    <a routerLink="/item/{{item.id}}"   >
+       <div >
+        
+          <img class="mb-1 mx-auto" 
+               [src]="item.image"   />
+           <div class="flex justify-between mt-3 ml-1">
+              <div class="grid w-screen place-items-center" >
+                 <button (click)="resetPage()" class="text-base" class=" font-bold text-justify text-xl " >{{item.name}}</button>
+              </div>
+            
+        </div>
+    
+    </div>
+    </a>
+    
+</mat-card>

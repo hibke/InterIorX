@@ -1,0 +1,29 @@
+<mat-drawer-container 
+[autosize]="true"
+class="min-h-full max-w-7xl mx-auto border-x"
+>
+   <mat-drawer style="height: 90%;" mode="side" opened class=" w-2/6" >
+       <div class="p-3 font-bold text-center text-xl bg-red-100">Palette</div>
+       <app-item-header></app-item-header>
+       <mat-grid-list
+           gutterSize="10"
+           cols="2"
+           rowHeight="350"
+       >
+       
+          <app-item-box></app-item-box>
+          
+          
+
+
+
+       </mat-grid-list>
+
+
+   </mat-drawer>
+   <mat-drawer-content class="mt-2 bg-stone-200">
+    <app-final-model></app-final-model>
+
+   </mat-drawer-content>
+
+</mat-drawer-container>

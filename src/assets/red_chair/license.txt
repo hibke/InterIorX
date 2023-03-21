@@ -1,0 +1,11 @@
+Model Information:
+* title:	Club Chair
+* source:	https://sketchfab.com/3d-models/club-chair-fe97624ba34d4334933e9f7830eb04b0
+* author:	JuanG3D (https://sketchfab.com/juang3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Club Chair" (https://sketchfab.com/3d-models/club-chair-fe97624ba34d4334933e9f7830eb04b0) by JuanG3D (https://sketchfab.com/juang3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

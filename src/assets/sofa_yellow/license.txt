@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sofa
+* source:	https://sketchfab.com/3d-models/sofa-6da57ed0f69343b4ad715c9aad78baf4
+* author:	Kanade_Tatibana (https://sketchfab.com/Kanade_Tatibana)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sofa" (https://sketchfab.com/3d-models/sofa-6da57ed0f69343b4ad715c9aad78baf4) by Kanade_Tatibana (https://sketchfab.com/Kanade_Tatibana) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

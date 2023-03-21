@@ -1,0 +1,11 @@
+Model Information:
+* title:	Table 6
+* source:	https://sketchfab.com/3d-models/table-6-b8d02f403e114ca592398e0099576e2b
+* author:	eucocker (https://sketchfab.com/eucocker)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Table 6" (https://sketchfab.com/3d-models/table-6-b8d02f403e114ca592398e0099576e2b) by eucocker (https://sketchfab.com/eucocker) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

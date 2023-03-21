@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hexagon Wall Decoration
+* source:	https://sketchfab.com/3d-models/hexagon-wall-decoration-d220ac4634484bee851d5bdc9c8b9226
+* author:	Cup_Of_Tea (https://sketchfab.com/Cup_Of_Tea)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hexagon Wall Decoration" (https://sketchfab.com/3d-models/hexagon-wall-decoration-d220ac4634484bee851d5bdc9c8b9226) by Cup_Of_Tea (https://sketchfab.com/Cup_Of_Tea) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sofá - IKEA NOCKEBY
+* source:	https://sketchfab.com/3d-models/sofa-ikea-nockeby-db5d6bbf7f34482ca1be89456fcc4070
+* author:	Filipe.Soares (https://sketchfab.com/Filipe.Soares)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sofá - IKEA NOCKEBY" (https://sketchfab.com/3d-models/sofa-ikea-nockeby-db5d6bbf7f34482ca1be89456fcc4070) by Filipe.Soares (https://sketchfab.com/Filipe.Soares) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
