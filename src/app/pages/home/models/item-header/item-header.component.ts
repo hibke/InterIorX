@@ -7,7 +7,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 
 })
 export class ItemHeaderComponent implements OnInit {
-  forniture = 'forniture';
+  forniture = 'furniture';
   itemsShowCount= 6;
   constructor(private activatedRoute:ActivatedRoute,private router:Router) {
     activatedRoute.params.subscribe((params) => {
